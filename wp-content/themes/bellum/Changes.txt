@@ -1,0 +1,124 @@
+HOW TO UPDATE YOUR THEME http://support.mcstudiosmx.com/forums/topic/how-to-update-your-theme-correctly/
+
+
+/*=================================================================*/
+/*  Version 1.6
+/*=================================================================*/
+Updated the twitter widget, Fixed a bug where the portfolio images were not displayed on ie10.
+
+Updated Files:
+
+- style.css
+- includes/theme-widgets.php
+- includes/twitteroauth.php  --> New file
+- js/scripts.js
+- js/libs/modernizr-2.0.6.min.js
+
+
+
+/*=================================================================*/
+/*  Version 1.5
+/*=================================================================*/
+Fixed a bug in the mobile menu (sorry that error was introduced with the internet explorer 8 compatibility) it's fixed now.
+
+Updated Files:
+
+- style.css
+- css/media-queries.css
+
+/*=================================================================*/
+/* Version 1.4
+/*=================================================================*/
+Added support for internet explorer 8, fixed Skype social icon url in widgets and shortcodes, fixed rss url in home tagline 
+
+Updated files:
+
+
+- includes/theme-shortcodes.php
+- includes/theme-widgets.php
+- templates/home/tagline.php
+- style.css 
+
+
+
+
+/*=================================================================*/
+/* Version 1.3
+/*=================================================================*/
+Added a new option in the home page layout manager to add custom sidebars to the home page so you can display your widgets in any part you want.
+
+Fixed a bug in the logo if the high resolution was not added (this error can be fixed if you add the normal logo in the high resolution logo option in case you don't want to update the files but in any case we fixed that.) 
+
+Fixed the lightbox title of the projects
+
+Fixed a margin error in the portfolio style 1 title
+
+Updated the black.css and light.css file to add the correct style to the widgets
+
+How to update?
+If you haven't done any changes to the code of the files, you can replace the entire theme folder, otherwise just replace the files listed below
+
+
+Updated files:
+
+-framework/functions/functions-init.php
+-style.css <-- All the new code is at the end of the file also the theme version at the top was updated
+-css/skins/light.css <-- All the new code is at the end of the file
+-css/skins/black.css <-- All the new code is at the end of the file
+-templates/portfolio-2.php
+-templates/portfolio-3.php
+-templates/portfolio-4.php
+-includes/theme-options.php
+-includes/theme-options-output.php
+-index.php
+-templates/home/sidebar.php <-- New file
+
+
+
+
+/*=================================================================*/
+/* Version 1.2
+/*=================================================================*/
+
+Fixed the 1 Click Import demo content, clicking the import demo content added the content corrcetly but created a conflict with the theme options panel, that error is now fixed, also when the permalink was set to default and you set the services, blog or portfolio page the content was not displayed, again that error is fixed.
+
+Info:
+If you clicked the import demo content button in the theme options panel and you are having errors, please just delete the custom menus (Appearance -> Menus), delete those menus or the next time you import the content they will be duplicated.  
+
+How to update?
+If you haven't done any changes to the code of the files, you can replace the entire theme folder, otherwise just replace the files listed below
+
+Updated files:
+
+- framework/admin/class.options_machine.php
+- framework/admin/assets/js/mcframework.js
+- framework/mcstudios-framework.php
+- framework/functions/functions-init.php
+- includes/demo-options-data.php  -> new file
+- includes/theme-settings.php
+- style.css   -> just updated the theme version
+- documentation file was updated
+
+
+
+/*=================================================================*/
+/* Version 1.1
+/*=================================================================*/
+
+Fixed some bugs, added support for shortcodes in sidebar, added email link in header, 
+support for the new woocoomerce version 2.2.
+
+Updated files:
+
+- header.php
+- templates/home/blog.php
+- framework/functions/functions-init.php
+- style.css
+
+
+
+/*=================================================================*/
+/* Version 1.0
+/*=================================================================*/
+
+First submitted version

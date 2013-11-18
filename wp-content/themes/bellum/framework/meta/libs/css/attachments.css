@@ -1,0 +1,315 @@
+/* @override http://development.local/wp/framework/wp-content/themes/Framework/framework/meta/libs/css/attachments.css?ver=3.3.1 */
+
+a,
+a:focus,
+a:hover,
+a:active{
+	outline: none !important;
+}
+
+a.button.attachments-invoke{
+	position: absolutes;
+	top: 3px;
+	right: 10px;
+	float: right;
+	margin-top: 5px;
+	font-size: 11px;
+	color: #646461;
+}
+
+
+.attachments-handle {
+    top:17px;
+    display: none;
+}
+
+.attachments-fields {
+	display: nones;
+}
+
+
+.attachments-container {
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+    padding-bottom:34px;
+}
+
+.attachments-attachment .attachment-meta .attachment-details {
+    display: none;
+}
+
+
+.attachments-attachment{
+	float: left;
+	position: relative;
+	display: block;
+	border: none;
+	margin-left: 10px;
+	margin-bottom: 0;
+	margin-top: 20px;
+}
+
+.attachments-attachment .attachment-meta{
+	position: relative;
+}
+
+.attachments-attachment,
+.attachments-container .ui-sortable-helper,
+.attachments-attachment-highlight,
+.attachments-attachment .attachment-meta,
+.attachments-attachment .attachment-meta .attachment-thumbnail{
+	width: 153px;
+	background: none;
+
+	padding: 0;
+	height: 106px;
+}
+
+.attachments-attachment .attachment-meta .attachment-thumbnail img{
+	max-width: 100%;
+	position: relative;
+	top: -20px;
+}
+
+/*ui.placeholder,
+.attachments-attachment,
+.panel{
+	border: 1px solid #e7e7e6 !important;
+	background: #fff !important;
+	padding: 5px !important;
+	-moz-box-shadow: 0 1px 2px rgba(10, 10, 10, 0.08);
+	-webkit-box-shadow: 0 1px 2px rgba(10, 10, 10, 0.08);
+	box-shadow: 0 1px 2px rgba(10, 10, 10, 0.08);
+	border-bottom: 1px solid #d3d3d3;
+}
+*/
+
+
+
+.attachment-thumbnail{
+	width: 149px;
+	height: 100px;
+	overflow: hidden;
+}
+
+
+.attachment-thumbnail img{
+	width: 100%;
+	position: relative;
+	top: 0px;
+	left: 0;
+}
+
+.attachment-edit{
+	position: absolute;
+	z-index: 999;
+	bottom: 2px;
+	right: -4px;
+	padding: 3px 9px;
+	/*display: none;*/
+}
+
+.attachment-edit a{
+	color: #eeeeee;
+	text-decoration: none;
+	margin-right: 0;
+	font-size: 11px;
+	display: block;
+	text-align: center;
+	background: transparent url(../images/delete-edit.png) no-repeat;
+	width: 25px;
+	float: left;
+}
+
+.attachment-edit a.edit{
+	text-indent: -9999px;
+	width: 24px;
+	height: 23px;
+}
+
+.attachment-edit .delete-attachment{
+	width: 25px;
+	text-indent: -9999px;
+	height: 23px;
+	background-position: -22px 0;
+}
+
+.attachment-edit a.edit:hover{
+	background-position: 0 -25px;
+}
+.attachment-edit .delete-attachment:hover{
+	background-position: -22px -25px;
+}
+
+
+
+
+
+
+.attachments-attachment.editing .attachments-fields{
+	display: block !important;
+	position: absolute;
+	top: 0;
+	z-index: 9999;
+	left: 0;
+	background-color: #ffffff;
+	width: 120px;
+	padding: 11px;
+}
+
+
+.attachments-attachment.editing .attachments-fields label{
+	font-size: 11px;
+	color: #7e7e7b;
+}
+
+.attachments-attachment .attachments-fields input{
+	width: 140px;
+	margin-top: 0;
+}
+
+.attachments-attachment.editing .attachments-fields textarea{
+	width: 122px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.panel {
+	float: left;
+	position: relative;
+	font-size: .8em;		
+	-webkit-perspective: 600px;
+	-moz-perspective: 600px;
+	padding: 5px !important;
+}
+		/* -- make sure to declare a default for every property that you want animated -- */
+		/* -- general styles, including Y axis rotation -- */
+		.panel .front {
+			float: none;
+			position: absolute;
+			top: 0;
+			left: 0;
+			z-index: 900;
+			width: 92%;
+			border: 1px solid #ccc;
+
+			overflow: hidden;
+			cursor: move;
+
+			-webkit-transform: rotateX(0deg) rotateY(0deg);
+			-webkit-transform-style: preserve-3d;
+			-webkit-backface-visibility: hidden;
+
+			-moz-transform: rotateX(0deg) rotateY(0deg);
+			-moz-transform-style: preserve-3d;
+			-moz-backface-visibility: hidden;
+
+			/* -- transition is the magic sauce for animation -- */
+			-o-transition: all .4s ease-in-out;
+			-ms-transition: all .4s ease-in-out;
+			-moz-transition: all .4s ease-in-out;
+			-webkit-transition: all .4s ease-in-out;
+			transition: all .4s ease-in-out;
+			
+			
+			
+			border: 1px solid #e7e7e6;
+			background: #fff;
+			padding: 5px;
+			-moz-box-shadow: 0 1px 1px rgba(10, 10, 10, 0.19);
+			-webkit-box-shadow: 0 1px 1px rgba(10, 10, 10, 0.19);
+			box-shadow: 0 1px 1px rgba(10, 10, 10, 0.19);
+			border-bottom: 1px solid #d3d3d3;
+			
+			
+		}
+		.panel.flip .front {
+			z-index: 900;
+			border-color: #eee;
+			background: #fff;
+
+			-webkit-transform: rotateY(180deg);
+			-moz-transform: rotateY(180deg);
+			
+
+		}
+		
+		.panel .back {
+			float: none;
+			position: absolute;
+			top: 1px;
+			left: 0;
+			z-index: 800;
+			width: 89%;
+			border: 1px solid #e2e2e2;
+			background: #ffffff;
+			
+			-webkit-transform: rotateY(-180deg);
+			-webkit-transform-style: preserve-3d;
+			-webkit-backface-visibility: hidden;
+
+			-moz-transform: rotateY(-180deg);
+			-moz-transform-style: preserve-3d;
+			-moz-backface-visibility: hidden;
+
+			/* -- transition is the magic sauce for animation -- */
+			-o-transition: all .4s ease-in-out;
+			-ms-transition: all .4s ease-in-out;
+			-moz-transition: all .4s ease-in-out;
+			-webkit-transition: all .4s ease-in-out;
+			transition: all .4s ease-in-out;
+			border: 1px solid #e7e7e6;
+			background: #fff;
+			padding: 5px 5px 5px 10px;
+			-moz-box-shadow: 0 1px 1px rgba(10, 10, 10, 0.19);
+			-webkit-box-shadow: 0 1px 1px rgba(10, 10, 10, 0.19);
+			box-shadow: 0 1px 1px rgba(10, 10, 10, 0.19);
+			border-bottom: 1px solid #d3d3d3;
+			height: 99px;
+		}
+		
+		.panel.flip .back {
+			z-index: 1000;
+			background: #ffffff;
+
+			-webkit-transform: rotateX(0deg) rotateY(0deg);
+			-moz-transform: rotateX(0deg) rotateY(0deg);
+			/*
+			box-shadow: 0 15px 50px rgba(0,0,0,0.2);
+			-moz-box-shadow: 0 15px 50px rgba(0,0,0,0.2);
+			-webkit-box-shadow: 0 15px 50px rgba(0,0,0,0.2);*/
+		}
+		
+		/* -- X axis rotation for click panel -- */
+		.click .front {
+			cursor: pointer;
+			-webkit-transform: rotateX(0deg);
+			-moz-transform: rotateX(0deg);
+		}
+		.click.flip .front {
+			-webkit-transform: rotateX(180deg);
+			-moz-transform: rotateX(180deg);
+		}
+		.click .back {
+			cursor: pointer;
+			-webkit-transform: rotateX(-180deg);
+			-moz-transform: rotateX(-180deg);
+		}
+		.click.flip .back {
+			-webkit-transform: rotateX(0deg);
+			-moz-transform: rotateX(0deg);
+		}
+		
+		
+.back .done{
+	float: right;
+}		

@@ -1,0 +1,2847 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bellum WordPress Theme\n"
+"POT-Creation-Date: 2013-02-21 05:57-0600\n"
+"PO-Revision-Date: 2013-02-21 05:57-0600\n"
+"Last-Translator: Manuel <support@mcstudiosmx.com>\n"
+"Language-Team: MC Studios <support@mcstudiosmx.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_n1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2, plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:91 ../category.php:91 ../search.php:91 ../tag.php:91
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:25
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:25
+msgid "comments"
+msgstr ""
+
+#: ../comments.php:27 ../comments.php:53
+msgid "Add Comment."
+msgstr ""
+
+#: ../comments.php:52
+msgid "There are no comments yet."
+msgstr ""
+
+#: ../comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:96
+msgid "Name*"
+msgstr ""
+
+#: ../comments.php:99
+msgid "Email* "
+msgstr ""
+
+#: ../comments.php:102
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:111
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: ../comments.php:112
+msgid "You are currentlty logged in."
+msgstr ""
+
+#: ../comments.php:113
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../comments.php:115
+msgid "Comment."
+msgstr ""
+
+#: ../comments.php:118
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:119
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:120
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:121
+msgid "Post Comment"
+msgstr ""
+
+#: ../functions.php:82 ../plugins/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:83 ../plugins/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:84 ../plugins/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:85
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:96 ../plugins/class-tgm-plugin-activation.php:178
+#: ../plugins/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:97 ../plugins/class-tgm-plugin-activation.php:179
+#: ../plugins/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:98
+msgid "All plugins installed and activated successfully."
+msgstr ""
+
+#: ../functions.php:120 ../functions.php:121
+msgid "Add Media"
+msgstr ""
+
+#: ../functions.php:127
+#: ../framework/meta/libs/classes/class.attachments.php:882
+#: ../framework/meta/libs/classes/class.attachments.php:952
+#: ../framework/meta/libs/deprecated/attachments.php:365
+#: ../framework/shortcodes/tinymce/config.php:241
+#: ../framework/shortcodes/tinymce/config.php:269
+#: ../includes/theme-options.php:1382 ../includes/theme-widgets.php:558
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:132
+msgid "Link"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Enter your search here"
+msgstr ""
+
+#: ../framework/admin/class.options_machine.php:157
+#: ../includes/theme-options.php:1252 ../includes/theme-options.php:1316
+msgid "Select Page:"
+msgstr ""
+
+#: ../framework/admin/class.options_machine.php:829
+msgid "Last Backup : "
+msgstr ""
+
+#: ../framework/admin/class.options_machine.php:887
+msgid "Upload"
+msgstr ""
+
+#: ../framework/admin/function-front-end.php:34
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/admin/function-front-end.php:34
+msgid "Support"
+msgstr ""
+
+#: ../framework/admin/function-front-end.php:52
+#: ../framework/admin/function-front-end.php:76
+msgid "Save All Changes"
+msgstr ""
+
+#: ../framework/admin/function-front-end.php:77
+msgid "Options Reset"
+msgstr ""
+
+#: ../framework/admin/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../framework/admin/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../framework/admin/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:121
+msgid "The Image"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:122
+msgid "The Post"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:126
+msgid "Timthumb"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:127
+msgid "PHP Thumb"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:128
+msgid "Disable resize script"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:134
+msgid "yes"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:135
+msgid "no"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:138
+msgid "No"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:139
+msgid "Yes"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:142
+msgid "Right"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:143
+msgid "Left"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:146
+#: ../framework/shortcodes/tinymce/config.php:335
+msgid "True"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:147
+#: ../framework/shortcodes/tinymce/config.php:336
+msgid "False"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:150 ../includes/theme-meta.php:27
+msgid "White"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:151 ../includes/theme-meta.php:28
+msgid "Gray"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:152 ../includes/theme-meta.php:29
+msgid "Pink"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:153 ../includes/theme-meta.php:30
+msgid "Aqua"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:154 ../includes/theme-meta.php:31
+msgid "Purple"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:155 ../includes/theme-meta.php:32
+msgid "Green"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:156 ../includes/theme-meta.php:33
+msgid "Blue"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:157 ../includes/theme-meta.php:34
+msgid "Orange"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:158 ../includes/theme-meta.php:35
+msgid "dark Blue"
+msgstr ""
+
+#: ../framework/admin/functions.options.php:159 ../includes/theme-meta.php:36
+msgid "Black"
+msgstr ""
+
+#: ../framework/functions/functions-contact copy.php:93 copy.php:98
+#: copy.php:107 copy.php:114 ../framework/functions/functions-contact.php:95
+#: ../framework/functions/functions-contact.php:100
+#: ../framework/functions/functions-contact.php:109
+#: ../framework/functions/functions-contact.php:116
+msgid "is required."
+msgstr ""
+
+#: ../framework/functions/functions-contact copy.php:100
+#: ../framework/functions/functions-contact.php:102
+msgid "You have entered an invalid e-mail address."
+msgstr ""
+
+#: ../framework/functions/functions-contact copy.php:109
+#: ../framework/functions/functions-contact.php:111
+msgid "The phone number can only contain digits."
+msgstr ""
+
+#: ../framework/functions/functions-contact copy.php:143
+#: ../framework/functions/functions-contact.php:147
+msgid "You have a new email from your site"
+msgstr ""
+
+#: ../framework/functions/functions-contact copy.php:151
+#: ../framework/functions/functions-contact.php:155
+msgid "You have a new email from your website"
+msgstr ""
+
+#: ../framework/functions/functions-contact copy.php:205
+#: ../framework/functions/functions-contact.php:207
+msgid "Email Sent Successfully."
+msgstr ""
+
+#: ../framework/functions/functions-contact copy.php:206
+#: ../framework/functions/functions-contact.php:208
+msgid "Thank you"
+msgstr ""
+
+#: ../framework/functions/functions-contact copy.php:206
+#: ../framework/functions/functions-contact.php:208
+msgid "your message has been submitted to us."
+msgstr ""
+
+#: ../framework/functions/functions-contact.php:217
+msgid "Error."
+msgstr ""
+
+#: ../framework/functions/functions-contact.php:218
+msgid "We are sorry"
+msgstr ""
+
+#: ../framework/functions/functions-contact.php:218
+msgid "there was a problem sending your email, please try again."
+msgstr ""
+
+#: ../framework/functions/functions-importer.php:342
+msgid "Import author:"
+msgstr ""
+
+#: ../framework/functions/functions-importer.php:354
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/functions/functions-importer.php:356
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/functions/functions-importer.php:1040
+msgid "Import WordPress"
+msgstr ""
+
+#: ../framework/functions/functions-init.php:17
+msgid "Top Menu"
+msgstr ""
+
+#: ../framework/functions/functions-init.php:51
+#: ../framework/functions/functions-init.php:67
+#: ../framework/functions/functions-init.php:102
+msgid "Drop Widgets Here"
+msgstr ""
+
+#: ../framework/functions/functions-init.php:715
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/functions/functions-subscribe.php:5
+#: ../framework/functions/functions-subscribe.php:17
+#: ../framework/functions/functions-subscribe.php:26
+msgid "invalid Email Address"
+msgstr ""
+
+#: ../framework/functions/functions-subscribe.php:6
+msgid "Duplicated Email Address"
+msgstr ""
+
+#: ../framework/functions/functions-subscribe.php:7
+#: ../framework/functions/functions-subscribe.php:56
+msgid "Thanks for subscribing. Now add a friend:"
+msgstr ""
+
+#: ../framework/functions/functions-subscribe.php:32
+msgid "This email is already subscribed"
+msgstr ""
+
+#: ../framework/functions/functions-subscribe.php:63
+msgid "Error, please try again"
+msgstr ""
+
+#: ../framework/functions/functions-subscribe.php:108
+msgid "Subscribe"
+msgstr ""
+
+#: ../framework/functions/parsers.php:43 ../framework/functions/parsers.php:64
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../framework/functions/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../framework/functions/parsers.php:68 ../framework/functions/parsers.php:73
+#: ../framework/functions/parsers.php:263
+#: ../framework/functions/parsers.php:452
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../framework/meta/inc/classes/meta-box.php:286
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../framework/meta/inc/classes/meta-box.php:344
+msgid "+"
+msgstr ""
+
+#: ../framework/meta/inc/fields/file.php:65
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../framework/meta/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: ../framework/meta/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: ../framework/meta/inc/fields/select-advanced.php:82
+msgid "Select a value"
+msgstr ""
+
+#: ../framework/meta/libs/index.php:16
+msgid "Some functions requires PHP 5.2+. the media functions are deactivated."
+msgstr ""
+
+#: ../framework/meta/libs/classes/class.attachments.migrate.php:161
+#: ../framework/meta/libs/classes/class.attachments.migrate.php:217
+#: ../framework/meta/libs/views/options.php:10
+msgid "Invalid request"
+msgstr ""
+
+#: ../framework/meta/libs/classes/class.attachments.php:918
+#: ../framework/meta/libs/deprecated/attachments.php:417
+#: ../framework/meta/libs/views/options.php:21
+msgid "Attachments"
+msgstr ""
+
+#: ../framework/meta/libs/classes/class.attachments.php:939
+#: ../framework/meta/libs/classes/class.attachments.php:942
+#: ../framework/meta/libs/deprecated/attachments.php:312
+msgid "Attach"
+msgstr ""
+
+#: ../framework/meta/libs/classes/class.attachments.php:958
+#: ../framework/meta/libs/deprecated/attachments.php:369
+msgid "Caption"
+msgstr ""
+
+#: ../framework/meta/libs/deprecated/attachments.php:51
+msgid ""
+"MC Studios Media Attachments requires PHP 5.2 or higher, as does WordPress "
+"3.2+. Attachments has been automatically deactivated."
+msgstr ""
+
+#: ../framework/meta/libs/deprecated/attachments.php:361
+msgid "Delete"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:13
+msgid "Button URL"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:14
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:18
+msgid "Button Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:19
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:21
+msgid "white"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:22
+msgid "grey"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:23
+msgid "pink"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:24
+msgid "aqua"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:25
+msgid "purple"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:26
+msgid "green"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:27
+msgid "blue"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:28
+msgid "orange"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:29
+msgid "dark blue"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:30
+msgid "black"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:35
+msgid "Button Target"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:36
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:45
+msgid "Alternative class"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:46
+msgid "Add a custom class to the button"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:51
+msgid "Button's Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:52
+msgid "Add the button's text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:56
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:71
+#: ../includes/theme-options.php:1021
+msgid "Separator Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:72
+msgid "Select the separator style."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:82
+#: ../framework/shortcodes/tinymce/config.php:696
+#: ../framework/shortcodes/tinymce/config.php:745
+msgid "Margin Top"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:83
+msgid "Add top margin to the separator"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:88
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:89
+msgid "Add bottom margin to the separator"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:93
+msgid "Insert Separator Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:106
+msgid "Quote Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:107
+msgid "Select the quote style, ie the alert colour"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:115
+msgid "Quote Author"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:116
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:122
+#: ../framework/shortcodes/tinymce/config.php:156
+msgid "Toggle Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:123
+#: ../framework/shortcodes/tinymce/config.php:302
+msgid "Add the toggle content. Will accept HTML"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:129
+#: ../framework/shortcodes/tinymce/config.php:502
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:143
+msgid "Dropcap"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:144
+msgid "The letter that will become bigger"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:150
+msgid "Color of dropcap"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:151
+msgid "Change the color of dropcap"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:157
+msgid "Dropcap Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:163
+msgid "Insert Dropcap Content Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:176
+msgid "Social Icon"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:177
+msgid "Select the social icon"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:201
+msgid "Url to social page"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:202
+msgid "Add the url to the social page"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:207
+msgid "Insert Social Content Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:222
+#: ../framework/shortcodes/tinymce/config.php:757
+#: ../includes/theme-meta.php:58
+msgid "Video URL"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:223
+msgid "Enter thr full url of the video, youtube or vimeo"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:228
+msgid "Insert Video Content Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:242
+#: ../framework/shortcodes/tinymce/config.php:270
+msgid "Add the title content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:248
+msgid "Subtitle"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:249
+msgid "Add the subtitle"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:255
+#: ../framework/shortcodes/tinymce/config.php:275
+msgid "Insert Custom Title Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:288
+msgid "List Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:289
+msgid "Select the list style, ie the list icon"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:301
+msgid "List Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:308
+msgid "Custom Lists Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:320
+msgid "Alert Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:321
+msgid "Select the alert's style, ie the alert colour"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:323
+msgid "Warning"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:324
+msgid "Error"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:325
+msgid "Success"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:326
+msgid "Info"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:332
+msgid "Close button?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:333
+msgid "Show or hide the close button"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:343
+msgid "Alert Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:344
+msgid "Add the alert's text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:349
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:362
+#: ../framework/shortcodes/tinymce/config.php:515
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:369
+#: ../framework/shortcodes/tinymce/config.php:522
+msgid "Tab Title"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:370
+#: ../framework/shortcodes/tinymce/config.php:523
+msgid "Title of the tab"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:375
+#: ../framework/shortcodes/tinymce/config.php:528
+msgid "Tab Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:376
+#: ../framework/shortcodes/tinymce/config.php:529
+msgid "Add the tabs content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:380
+#: ../framework/shortcodes/tinymce/config.php:533
+msgid "Add Tab"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:395
+msgid "Address"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:396
+msgid "Add the address"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:402
+msgid "Map Zoom"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:403
+msgid "Change the map zoom"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:409
+msgid "Map Height"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:410
+msgid "Change the map height"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:415
+msgid "Insert Gmap Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:430
+msgid "Insert Contact form Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:442
+msgid "Member photo"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:443
+msgid "Add the photo full url of the team member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:448
+msgid "Member name"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:449
+msgid "Add the name of the team member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:454
+msgid "Member position"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:455
+msgid "Add the position of the team member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:461
+msgid "Member Info"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:462
+msgid "Enter the info of the member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:467
+msgid "Facebook ULR"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:468
+msgid "Enter the facebook url of the member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:473
+#: ../includes/theme-options.php:98 ../includes/theme-widgets.php:563
+msgid "Twitter Username"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:474
+msgid "Enter the  twitter username of the member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:481
+msgid "Dribble url"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:482
+msgid "Enter the  dribble url of the member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:487
+msgid "Skype"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:488
+msgid "Enter the  flickr url of the member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:494
+msgid "Vimeo url"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:495
+msgid "Enter the  vimeo url of the member"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:544
+msgid "Insert Shortcode Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:553
+msgid "Client name"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:554
+msgid "Add the client name."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:559
+msgid "Client Company/Position"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:560
+msgid "Add the client company/position."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:565
+msgid "Testimonial text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:566
+msgid "Add the testimonial text."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:570
+msgid "Add Testimonial"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:582
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:590
+msgid "Column Type"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:591
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:605
+msgid "Column Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:606
+msgid "Add the column content."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:610
+msgid "Add Column"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:623
+msgid "Slider Effect"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:624
+msgid "Select the slider effect"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:647
+msgid "Autostart"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:648
+msgid "Autostart the slider"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:657
+msgid "Delay"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:658
+msgid "Delay between each slide in milliseconds"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:665
+msgid "Insert Slider Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:672
+msgid "Image URL"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:673
+msgid "Enter the full url of the image"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:678
+msgid "Image Link"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:679
+msgid "Add a link to the image content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:683
+msgid "Add Slide"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:697
+#: ../framework/shortcodes/tinymce/config.php:746
+msgid "Add the margin top"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:702
+msgid "Left or right margin"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:703
+msgid "Add the left or right margin "
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:707
+msgid "Effect"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:708
+msgid "Select the text effect"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:716
+msgid "Text align"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:717
+msgid "Where the description should be positioned"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:726
+msgid "Text speed"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:727
+msgid "The text slide speed"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:731
+msgid "Insert full slider descripton"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:751
+msgid "Speed"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:752
+msgid "Speed of slide"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:758
+msgid "Enter the video full url"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:763
+#: ../includes/theme-meta.php:67
+msgid "Video Height"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:764
+msgid "Enter the video height"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:769
+msgid "Video Width"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:770
+msgid "Enter the video width"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:774
+msgid "Autoplay Video"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:775
+msgid "Autoplay the video"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:784
+msgid "Video controls color"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:785
+msgid "Video controls color,  just for vimeo"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:789
+msgid "Insert Full slider video Shortcode"
+msgstr ""
+
+#: ../includes/theme-meta.php:60
+msgid "Video URL, you can enter a vimeo video, youtube or hosted mp4 file."
+msgstr ""
+
+#: ../includes/theme-meta.php:69
+msgid "You can adjust the height of the video."
+msgstr ""
+
+#: ../includes/theme-meta.php:76
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../includes/theme-meta.php:78
+msgid "Enter the full url of the audio file."
+msgstr ""
+
+#: ../includes/theme-meta.php:86
+msgid "OGG File URL"
+msgstr ""
+
+#: ../includes/theme-meta.php:88
+msgid "Optional Enter the full url of the ogg audio file."
+msgstr ""
+
+#: ../includes/theme-meta.php:97
+msgid "Quote text"
+msgstr ""
+
+#: ../includes/theme-meta.php:99
+msgid "Enter the text of the quote."
+msgstr ""
+
+#: ../includes/theme-meta.php:107
+msgid "Quote author"
+msgstr ""
+
+#: ../includes/theme-meta.php:109
+msgid "Enter the author of the quote."
+msgstr ""
+
+#: ../includes/theme-meta.php:118
+msgid "Source Title"
+msgstr ""
+
+#: ../includes/theme-meta.php:120
+msgid "Enter the title of the source."
+msgstr ""
+
+#: ../includes/theme-meta.php:128
+msgid "Source URL"
+msgstr ""
+
+#: ../includes/theme-meta.php:130
+msgid "Enter the url of the source."
+msgstr ""
+
+#: ../includes/theme-meta.php:140
+msgid "External URL"
+msgstr ""
+
+#: ../includes/theme-meta.php:142
+msgid "Link the post to an alternative URL."
+msgstr ""
+
+#: ../includes/theme-meta.php:151
+msgid "Single Style"
+msgstr ""
+
+#: ../includes/theme-meta.php:153
+msgid "You can change the style f the single post page here."
+msgstr ""
+
+#: ../includes/theme-meta.php:185
+msgid "Link project to:"
+msgstr ""
+
+#: ../includes/theme-meta.php:196
+msgid "Select the link type"
+msgstr ""
+
+#: ../includes/theme-meta.php:199
+#: ../plugins/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../includes/theme-meta.php:201
+msgid "Adjust the project link"
+msgstr ""
+
+#: ../includes/theme-meta.php:211
+msgid "Single project style:"
+msgstr ""
+
+#: ../includes/theme-meta.php:223
+msgid "Overwrite the single style"
+msgstr ""
+
+#: ../includes/theme-meta.php:300
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/theme-meta.php:302
+msgid "The page title"
+msgstr ""
+
+#: ../includes/theme-meta.php:309
+msgid "Page Subtitle"
+msgstr ""
+
+#: ../includes/theme-meta.php:311
+msgid "The page subtitle"
+msgstr ""
+
+#: ../includes/theme-meta.php:318
+msgid "Sidebar Position:"
+msgstr ""
+
+#: ../includes/theme-meta.php:329
+msgid "Select the sidebar position"
+msgstr ""
+
+#: ../includes/theme-options.php:28
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:35
+msgid "Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:41
+msgid "Favicon"
+msgstr ""
+
+#: ../includes/theme-options.php:42
+msgid "Upload your custom favicon or define the URL directly in png format."
+msgstr ""
+
+#: ../includes/theme-options.php:57
+msgid "Feedburner RSS Feed URL"
+msgstr ""
+
+#: ../includes/theme-options.php:58
+msgid "Enter your full feedburner rss url if you have one."
+msgstr ""
+
+#: ../includes/theme-options.php:63
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: ../includes/theme-options.php:64
+msgid "Enable or disable responsive design. only if required."
+msgstr ""
+
+#: ../includes/theme-options.php:71
+msgid "Display Breadcrumb?"
+msgstr ""
+
+#: ../includes/theme-options.php:72
+msgid "Shor or hide the page breadcrumb at the top of every page."
+msgstr ""
+
+#: ../includes/theme-options.php:85
+msgid "Header contact email"
+msgstr ""
+
+#: ../includes/theme-options.php:86
+msgid "Enter the email displayed the header."
+msgstr ""
+
+#: ../includes/theme-options.php:91
+msgid "Header Phone"
+msgstr ""
+
+#: ../includes/theme-options.php:92
+msgid "Enter the phone number displayed in the header."
+msgstr ""
+
+#: ../includes/theme-options.php:99
+msgid "Enter your twitter username to display the icon in the header."
+msgstr ""
+
+#: ../includes/theme-options.php:104
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/theme-options.php:105
+msgid "Enter your facebook url to display the icon in the header."
+msgstr ""
+
+#: ../includes/theme-options.php:110
+msgid "Dribble URL"
+msgstr ""
+
+#: ../includes/theme-options.php:111
+msgid "Enter your dribble url to display the icon in the header."
+msgstr ""
+
+#: ../includes/theme-options.php:116
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../includes/theme-options.php:117
+msgid "Enter your vimeo url to display the icon in the header."
+msgstr ""
+
+#: ../includes/theme-options.php:122
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../includes/theme-options.php:123
+msgid "Enter your tumblr url to display the icon in the header."
+msgstr ""
+
+#: ../includes/theme-options.php:137
+msgid "Logo options"
+msgstr ""
+
+#: ../includes/theme-options.php:140
+msgid "Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:141
+msgid "Upload your custom logo or define the URL directly"
+msgstr ""
+
+#: ../includes/theme-options.php:147
+msgid "Logo High Resolution"
+msgstr ""
+
+#: ../includes/theme-options.php:148
+msgid "Upload your high resolution logo, twice the size of your normal logo"
+msgstr ""
+
+#: ../includes/theme-options.php:155
+msgid "Customize Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:156
+msgid ""
+"Customize your logo size and position, for the margins you can use negative "
+"values if necessary."
+msgstr ""
+
+#: ../includes/theme-options.php:176
+msgid "Align Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:177
+msgid "Float the logo to the left or right."
+msgstr ""
+
+#: ../includes/theme-options.php:186
+msgid "Menu options"
+msgstr ""
+
+#: ../includes/theme-options.php:189
+msgid "Home Link text"
+msgstr ""
+
+#: ../includes/theme-options.php:190
+msgid "Change the text of the home page link."
+msgstr ""
+
+#: ../includes/theme-options.php:197
+msgid "Exclude pages from menu"
+msgstr ""
+
+#: ../includes/theme-options.php:198
+msgid "Select the pages that you want to exclude from the main menu."
+msgstr ""
+
+#: ../includes/theme-options.php:206
+msgid "Menu Position"
+msgstr ""
+
+#: ../includes/theme-options.php:207
+msgid "Customize the position of the menu."
+msgstr ""
+
+#: ../includes/theme-options.php:224
+msgid "Sidebars"
+msgstr ""
+
+#: ../includes/theme-options.php:227
+msgid "Create Sidebars"
+msgstr ""
+
+#: ../includes/theme-options.php:228
+msgid ""
+"Here you can create all the sidebars you need, you can customize your new "
+"sidebar in the widgets page."
+msgstr ""
+
+#: ../includes/theme-options.php:247
+msgid "Styling Options"
+msgstr ""
+
+#: ../includes/theme-options.php:255
+msgid "Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:258
+msgid "Pages Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:263
+msgid "Pages Subheading"
+msgstr ""
+
+#: ../includes/theme-options.php:269
+msgid "General Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:275
+msgid "Heading H1"
+msgstr ""
+
+#: ../includes/theme-options.php:281
+msgid "Heading H2"
+msgstr ""
+
+#: ../includes/theme-options.php:287
+msgid "Heading H3"
+msgstr ""
+
+#: ../includes/theme-options.php:293
+msgid "Heading H4"
+msgstr ""
+
+#: ../includes/theme-options.php:298
+msgid "Menu Links"
+msgstr ""
+
+#: ../includes/theme-options.php:303
+msgid "Sidebar Widgets Title"
+msgstr ""
+
+#: ../includes/theme-options.php:314 ../includes/theme-options.php:319
+msgid "Theme Skin"
+msgstr ""
+
+#: ../includes/theme-options.php:320
+msgid "Change the theme scheme color."
+msgstr ""
+
+#: ../includes/theme-options.php:353
+msgid "Blog Post Format Icon background"
+msgstr ""
+
+#: ../includes/theme-options.php:354
+msgid "change the background color of the post format icon."
+msgstr ""
+
+#: ../includes/theme-options.php:359
+msgid "Links Color"
+msgstr ""
+
+#: ../includes/theme-options.php:360
+msgid "Change the color of the normal state links."
+msgstr ""
+
+#: ../includes/theme-options.php:366
+msgid "Change the color of the hover state."
+msgstr ""
+
+#: ../includes/theme-options.php:372
+msgid "Menu Links top active border"
+msgstr ""
+
+#: ../includes/theme-options.php:373
+msgid "Main Menu Active top border."
+msgstr ""
+
+#: ../includes/theme-options.php:378
+msgid "Menu Links bottom hover border"
+msgstr ""
+
+#: ../includes/theme-options.php:379
+msgid "Main Menu hover bottom border."
+msgstr ""
+
+#: ../includes/theme-options.php:389 ../includes/theme-options.php:392
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/theme-options.php:393
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../includes/theme-options.php:415
+msgid "Page templates"
+msgstr ""
+
+#: ../includes/theme-options.php:429
+msgid "Home page"
+msgstr ""
+
+#: ../includes/theme-options.php:432
+msgid "Home Page Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:433
+msgid "Here you can create your own home page."
+msgstr ""
+
+#: ../includes/theme-options.php:442
+msgid "Enter the id of the slider"
+msgstr ""
+
+#: ../includes/theme-options.php:443
+msgid "Slider ID:"
+msgstr ""
+
+#: ../includes/theme-options.php:451 ../includes/theme-options.php:472
+#: ../includes/theme-options.php:552
+msgid "Auto Slide:"
+msgstr ""
+
+#: ../includes/theme-options.php:452 ../includes/theme-options.php:473
+#: ../includes/theme-options.php:553
+msgid "Set the auto slide option"
+msgstr ""
+
+#: ../includes/theme-options.php:466
+msgid "Height of the slider e.g 453"
+msgstr ""
+
+#: ../includes/theme-options.php:467
+msgid "Slider Height:"
+msgstr ""
+
+#: ../includes/theme-options.php:480
+msgid "Pause between each slide"
+msgstr ""
+
+#: ../includes/theme-options.php:481 ../includes/theme-options.php:561
+msgid "Pause Time:"
+msgstr ""
+
+#: ../includes/theme-options.php:486 ../includes/theme-options.php:567
+msgid "Slider effect"
+msgstr ""
+
+#: ../includes/theme-options.php:521
+msgid "Slider Images:"
+msgstr ""
+
+#: ../includes/theme-options.php:522
+msgid "Add your slides images"
+msgstr ""
+
+#: ../includes/theme-options.php:545
+msgid "How do you want to display the slider bullets pagination"
+msgstr ""
+
+#: ../includes/theme-options.php:546
+msgid "Bullets style:"
+msgstr ""
+
+#: ../includes/theme-options.php:560
+msgid "Pause between each slide 6000 = 6 secs"
+msgstr ""
+
+#: ../includes/theme-options.php:566
+msgid "Change the slider transition effect."
+msgstr ""
+
+#: ../includes/theme-options.php:586
+msgid "Tagline Style"
+msgstr ""
+
+#: ../includes/theme-options.php:587
+msgid "Select the tagline style"
+msgstr ""
+
+#: ../includes/theme-options.php:594
+msgid "Tagline title"
+msgstr ""
+
+#: ../includes/theme-options.php:596 ../includes/theme-widgets.php:925
+msgid "Title:"
+msgstr ""
+
+#: ../includes/theme-options.php:601
+msgid "Tagline Text "
+msgstr ""
+
+#: ../includes/theme-options.php:603
+msgid "Text"
+msgstr ""
+
+#: ../includes/theme-options.php:608
+msgid "Social title, e.g We are social."
+msgstr ""
+
+#: ../includes/theme-options.php:610
+msgid "Social Title:"
+msgstr ""
+
+#: ../includes/theme-options.php:615
+msgid "Enter your Twitter username"
+msgstr ""
+
+#: ../includes/theme-options.php:617 ../includes/theme-widgets.php:482
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../includes/theme-options.php:622
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: ../includes/theme-options.php:624 ../includes/theme-widgets.php:488
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../includes/theme-options.php:629
+msgid "Enter your Dribble url"
+msgstr ""
+
+#: ../includes/theme-options.php:631 ../includes/theme-widgets.php:494
+msgid "Dribble URL:"
+msgstr ""
+
+#: ../includes/theme-options.php:636
+msgid "Enter your Vimeo url"
+msgstr ""
+
+#: ../includes/theme-options.php:638 ../includes/theme-widgets.php:500
+msgid "Vimeo URL:"
+msgstr ""
+
+#: ../includes/theme-options.php:643
+msgid "Enter your Tumblr url"
+msgstr ""
+
+#: ../includes/theme-options.php:645 ../includes/theme-widgets.php:506
+msgid "Tumblr URL:"
+msgstr ""
+
+#: ../includes/theme-options.php:650
+msgid "Show or hide the rss icon"
+msgstr ""
+
+#: ../includes/theme-options.php:652
+msgid "Show RSS:"
+msgstr ""
+
+#: ../includes/theme-options.php:708 ../includes/theme-options.php:740
+msgid "Add your columns"
+msgstr ""
+
+#: ../includes/theme-options.php:709 ../includes/theme-options.php:741
+msgid "Select the number of columns"
+msgstr ""
+
+#: ../includes/theme-options.php:721 ../includes/theme-options.php:722
+#: ../includes/theme-options.php:753 ../includes/theme-options.php:754
+#: ../includes/theme-options.php:780 ../includes/theme-options.php:781
+msgid "Column title"
+msgstr ""
+
+#: ../includes/theme-options.php:728 ../includes/theme-options.php:729
+#: ../includes/theme-options.php:760 ../includes/theme-options.php:761
+#: ../includes/theme-options.php:787 ../includes/theme-options.php:788
+msgid "Column text"
+msgstr ""
+
+#: ../includes/theme-options.php:774
+msgid "Add your tabs"
+msgstr ""
+
+#: ../includes/theme-options.php:775
+msgid "Add your custom tabs"
+msgstr ""
+
+#: ../includes/theme-options.php:802 ../includes/theme-options.php:996
+msgid "Block Title"
+msgstr ""
+
+#: ../includes/theme-options.php:808 ../includes/theme-options.php:874
+msgid "Portfolio top link text"
+msgstr ""
+
+#: ../includes/theme-options.php:814 ../includes/theme-options.php:880
+msgid "Portfolio top link url"
+msgstr ""
+
+#: ../includes/theme-options.php:820
+msgid "Project Hover Effect"
+msgstr ""
+
+#: ../includes/theme-options.php:821
+msgid "Enable or disable the hover effect"
+msgstr ""
+
+#: ../includes/theme-options.php:827
+msgid "Project Title"
+msgstr ""
+
+#: ../includes/theme-options.php:828
+msgid "Display project title?"
+msgstr ""
+
+#: ../includes/theme-options.php:834
+msgid "Project Categories"
+msgstr ""
+
+#: ../includes/theme-options.php:835
+msgid "Display project categories?"
+msgstr ""
+
+#: ../includes/theme-options.php:841
+msgid "Project Description"
+msgstr ""
+
+#: ../includes/theme-options.php:842
+msgid "Display project description?"
+msgstr ""
+
+#: ../includes/theme-options.php:848
+msgid "Number of projects"
+msgstr ""
+
+#: ../includes/theme-options.php:849
+msgid "Change the number of projects to display?"
+msgstr ""
+
+#: ../includes/theme-options.php:850
+msgid "Four projects"
+msgstr ""
+
+#: ../includes/theme-options.php:850
+msgid "Three projects"
+msgstr ""
+
+#: ../includes/theme-options.php:850
+msgid "Two projects"
+msgstr ""
+
+#: ../includes/theme-options.php:855 ../includes/theme-options.php:916
+msgid "Categories"
+msgstr ""
+
+#: ../includes/theme-options.php:857
+msgid "Select the categories to display"
+msgstr ""
+
+#: ../includes/theme-options.php:868
+msgid "Title big:"
+msgstr ""
+
+#: ../includes/theme-options.php:869
+msgid "Block title"
+msgstr ""
+
+#: ../includes/theme-options.php:886 ../includes/theme-options.php:989
+msgid "Block Width"
+msgstr ""
+
+#: ../includes/theme-options.php:887
+msgid "Adjust the blog section width"
+msgstr ""
+
+#: ../includes/theme-options.php:893
+msgid "Number of posts"
+msgstr ""
+
+#: ../includes/theme-options.php:894
+msgid "Number of posts to display"
+msgstr ""
+
+#: ../includes/theme-options.php:899
+msgid "Display post date?"
+msgstr ""
+
+#: ../includes/theme-options.php:905
+msgid "Display post comments?"
+msgstr ""
+
+#: ../includes/theme-options.php:911
+msgid "Number of words in excerpt:"
+msgstr ""
+
+#: ../includes/theme-options.php:990
+msgid "Adjust the text section width"
+msgstr ""
+
+#: ../includes/theme-options.php:1002
+msgid "Add double line to the title?"
+msgstr ""
+
+#: ../includes/theme-options.php:1003
+msgid "This will add a double line bg to the title"
+msgstr ""
+
+#: ../includes/theme-options.php:1009
+msgid "Block Text"
+msgstr ""
+
+#: ../includes/theme-options.php:1022
+msgid "Select the style of the separator"
+msgstr ""
+
+#: ../includes/theme-options.php:1028 ../includes/theme-options.php:1044
+msgid "Add margin top"
+msgstr ""
+
+#: ../includes/theme-options.php:1029 ../includes/theme-options.php:1045
+msgid "Add some space at the top in px e.g 30"
+msgstr ""
+
+#: ../includes/theme-options.php:1034 ../includes/theme-options.php:1050
+msgid "Add margin bottom"
+msgstr ""
+
+#: ../includes/theme-options.php:1063
+msgid "Portfolio page"
+msgstr ""
+
+#: ../includes/theme-options.php:1066
+msgid "Portfolio Page"
+msgstr ""
+
+#: ../includes/theme-options.php:1067
+msgid "Select your portfolio page."
+msgstr ""
+
+#: ../includes/theme-options.php:1075
+msgid "Apply Portfolio to this page:"
+msgstr ""
+
+#: ../includes/theme-options.php:1077
+msgid "Select the page wher you want to display your portfolio."
+msgstr ""
+
+#: ../includes/theme-options.php:1083
+msgid "Select the style of the portfolio"
+msgstr ""
+
+#: ../includes/theme-options.php:1085
+msgid "Select the number of columns."
+msgstr ""
+
+#: ../includes/theme-options.php:1091
+msgid "Show filtering bar?"
+msgstr ""
+
+#: ../includes/theme-options.php:1093
+msgid "Show or hide the filtering bar at the top."
+msgstr ""
+
+#: ../includes/theme-options.php:1099
+msgid "Slect the hover effect"
+msgstr ""
+
+#: ../includes/theme-options.php:1100
+msgid "Hover to black"
+msgstr ""
+
+#: ../includes/theme-options.php:1100
+msgid "Disable hover effect"
+msgstr ""
+
+#: ../includes/theme-options.php:1101
+msgid "Select the hover effect for the project thumbnail."
+msgstr ""
+
+#: ../includes/theme-options.php:1115
+msgid "Show project title?"
+msgstr ""
+
+#: ../includes/theme-options.php:1117
+msgid "Show or hide the project title."
+msgstr ""
+
+#: ../includes/theme-options.php:1124
+msgid "Show project categories?"
+msgstr ""
+
+#: ../includes/theme-options.php:1126
+msgid "Show or hide the project categories."
+msgstr ""
+
+#: ../includes/theme-options.php:1132
+msgid "Show project excerpt?"
+msgstr ""
+
+#: ../includes/theme-options.php:1134
+msgid "Show or hide the project excerpt."
+msgstr ""
+
+#: ../includes/theme-options.php:1140 ../includes/theme-options.php:1342
+msgid "Number of words in excerpt"
+msgstr ""
+
+#: ../includes/theme-options.php:1141
+msgid "Change the number of words in the excerpt e.g 50."
+msgstr ""
+
+#: ../includes/theme-options.php:1154 ../includes/theme-options.php:1296
+#: ../includes/theme-options.php:1374
+msgid "Posts per page?"
+msgstr ""
+
+#: ../includes/theme-options.php:1155 ../includes/theme-options.php:1297
+#: ../includes/theme-options.php:1375
+msgid "Select the number of posts per page."
+msgstr ""
+
+#: ../includes/theme-options.php:1162 ../includes/theme-options.php:1260
+#: ../includes/theme-options.php:1333
+msgid "Which categories do you want to display?"
+msgstr ""
+
+#: ../includes/theme-options.php:1164
+msgid "Select the categories that you want to display."
+msgstr ""
+
+#: ../includes/theme-options.php:1174
+msgid "Single portfolio"
+msgstr ""
+
+#: ../includes/theme-options.php:1177 ../includes/theme-options.php:1402
+msgid "Single Title"
+msgstr ""
+
+#: ../includes/theme-options.php:1178
+msgid "this title will be displayed in the single project page."
+msgstr ""
+
+#: ../includes/theme-options.php:1183 ../includes/theme-options.php:1409
+msgid "Single Subtitle"
+msgstr ""
+
+#: ../includes/theme-options.php:1184 ../includes/theme-options.php:1410
+msgid "Text displayed in the top of the page."
+msgstr ""
+
+#: ../includes/theme-options.php:1190
+msgid "Single Portfolio Style"
+msgstr ""
+
+#: ../includes/theme-options.php:1191
+msgid "change the single portfolio style."
+msgstr ""
+
+#: ../includes/theme-options.php:1193
+msgid "Top Slider Full Content"
+msgstr ""
+
+#: ../includes/theme-options.php:1193
+msgid "Top Slider with sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:1193
+msgid "Normal Post"
+msgstr ""
+
+#: ../includes/theme-options.php:1199
+msgid "Sidebar Position?"
+msgstr ""
+
+#: ../includes/theme-options.php:1200
+msgid "change the sidebar position."
+msgstr ""
+
+#: ../includes/theme-options.php:1208
+msgid "Show related projects?"
+msgstr ""
+
+#: ../includes/theme-options.php:1209
+msgid "Show or hide related projects."
+msgstr ""
+
+#: ../includes/theme-options.php:1216
+msgid "Enable Comments"
+msgstr ""
+
+#: ../includes/theme-options.php:1217
+msgid "Enable Comments in the single portfolio page."
+msgstr ""
+
+#: ../includes/theme-options.php:1224
+msgid "Project Auto Slide"
+msgstr ""
+
+#: ../includes/theme-options.php:1225
+msgid "Auto Start the project slider. (Only for the single project page)"
+msgstr ""
+
+#: ../includes/theme-options.php:1232
+msgid "Slide Duration"
+msgstr ""
+
+#: ../includes/theme-options.php:1233
+msgid "Time between each slide (6000 = 6 seconds)"
+msgstr ""
+
+#: ../includes/theme-options.php:1240
+msgid "Services page"
+msgstr ""
+
+#: ../includes/theme-options.php:1244
+msgid "Services Page"
+msgstr ""
+
+#: ../includes/theme-options.php:1245 ../includes/theme-options.php:1309
+msgid "Select your blog page."
+msgstr ""
+
+#: ../includes/theme-options.php:1253
+msgid "Apply services to this page:"
+msgstr ""
+
+#: ../includes/theme-options.php:1255
+msgid "Select the page wher you want to display your services."
+msgstr ""
+
+#: ../includes/theme-options.php:1262 ../includes/theme-options.php:1335
+msgid "Select the categories that you want to display in the home page."
+msgstr ""
+
+#: ../includes/theme-options.php:1267
+msgid "Services top link text"
+msgstr ""
+
+#: ../includes/theme-options.php:1268
+msgid "Add a top link in the header eg. Get in touch."
+msgstr ""
+
+#: ../includes/theme-options.php:1273
+msgid "Services top link url"
+msgstr ""
+
+#: ../includes/theme-options.php:1274
+msgid "Add a the url of the link."
+msgstr ""
+
+#: ../includes/theme-options.php:1279
+msgid "Button Color:"
+msgstr ""
+
+#: ../includes/theme-options.php:1280
+msgid "Select the color of the button:"
+msgstr ""
+
+#: ../includes/theme-options.php:1282
+msgid "Select the color of the button."
+msgstr ""
+
+#: ../includes/theme-options.php:1290
+msgid "Services Active Tab"
+msgstr ""
+
+#: ../includes/theme-options.php:1291
+msgid "Enter the number of tha active tab, default 1 (first tab)."
+msgstr ""
+
+#: ../includes/theme-options.php:1305
+msgid "Blog page"
+msgstr ""
+
+#: ../includes/theme-options.php:1308
+msgid "Blog Page"
+msgstr ""
+
+#: ../includes/theme-options.php:1317
+msgid "Apply blog to this page:"
+msgstr ""
+
+#: ../includes/theme-options.php:1319
+msgid "Select the page wher you want to display your blog page."
+msgstr ""
+
+#: ../includes/theme-options.php:1325
+msgid "Blog Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:1326
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/theme-options.php:1326
+msgid "With Sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:1327
+msgid "Show or hide the posted by author text."
+msgstr ""
+
+#: ../includes/theme-options.php:1343
+msgid "Change the number of words in the exerpt ie(75)."
+msgstr ""
+
+#: ../includes/theme-options.php:1351
+msgid "Show author?"
+msgstr ""
+
+#: ../includes/theme-options.php:1353 ../includes/theme-options.php:1433
+msgid "Show or hide the post author."
+msgstr ""
+
+#: ../includes/theme-options.php:1359 ../includes/theme-options.php:1440
+msgid "Show post categories?"
+msgstr ""
+
+#: ../includes/theme-options.php:1361 ../includes/theme-options.php:1441
+msgid "Show or hide the post categories."
+msgstr ""
+
+#: ../includes/theme-options.php:1366 ../includes/theme-options.php:1448
+msgid "Show post share?"
+msgstr ""
+
+#: ../includes/theme-options.php:1368
+msgid "Show or hide the share links."
+msgstr ""
+
+#: ../includes/theme-options.php:1381
+msgid "Order the posts by?"
+msgstr ""
+
+#: ../includes/theme-options.php:1382
+msgid "Date"
+msgstr ""
+
+#: ../includes/theme-options.php:1382
+msgid "ID"
+msgstr ""
+
+#: ../includes/theme-options.php:1382
+msgid "Random"
+msgstr ""
+
+#: ../includes/theme-options.php:1383
+msgid "How do you want to order the posts? the default order is by date."
+msgstr ""
+
+#: ../includes/theme-options.php:1389
+msgid "Select the post order"
+msgstr ""
+
+#: ../includes/theme-options.php:1390
+msgid "DESC"
+msgstr ""
+
+#: ../includes/theme-options.php:1390
+msgid "ASC"
+msgstr ""
+
+#: ../includes/theme-options.php:1391
+msgid "Select the posts order."
+msgstr ""
+
+#: ../includes/theme-options.php:1399
+msgid "Single post"
+msgstr ""
+
+#: ../includes/theme-options.php:1403
+msgid "this title will be displayed in the single post page."
+msgstr ""
+
+#: ../includes/theme-options.php:1416
+msgid "Single post style"
+msgstr ""
+
+#: ../includes/theme-options.php:1417
+msgid "Select the single post style."
+msgstr ""
+
+#: ../includes/theme-options.php:1419
+msgid "Full Style"
+msgstr ""
+
+#: ../includes/theme-options.php:1419
+msgid "Normal Style"
+msgstr ""
+
+#: ../includes/theme-options.php:1424
+msgid "Sidebar position"
+msgstr ""
+
+#: ../includes/theme-options.php:1425
+msgid "Change the sidebar position."
+msgstr ""
+
+#: ../includes/theme-options.php:1432
+msgid "Show post author?"
+msgstr ""
+
+#: ../includes/theme-options.php:1449
+msgid "Show or hide the post share."
+msgstr ""
+
+#: ../includes/theme-options.php:1456
+msgid "Enable Comments?"
+msgstr ""
+
+#: ../includes/theme-options.php:1457
+msgid "Enable or disable the comments."
+msgstr ""
+
+#: ../includes/theme-options.php:1467
+msgid "Comments Button Color"
+msgstr ""
+
+#: ../includes/theme-options.php:1468
+msgid "Change the color of the post comment button."
+msgstr ""
+
+#: ../includes/theme-options.php:1479 ../includes/theme-options.php:1496
+msgid "Contact Form"
+msgstr ""
+
+#: ../includes/theme-options.php:1483
+msgid "Select Contact Page"
+msgstr ""
+
+#: ../includes/theme-options.php:1484
+msgid "Select your contact page."
+msgstr ""
+
+#: ../includes/theme-options.php:1490
+msgid "Contact Page Map Address"
+msgstr ""
+
+#: ../includes/theme-options.php:1491
+msgid "Add a map to the contact page."
+msgstr ""
+
+#: ../includes/theme-options.php:1497
+msgid "Create the form the way you want"
+msgstr ""
+
+#: ../includes/theme-options.php:1507 ../includes/theme-options.php:1523
+#: ../includes/theme-widgets.php:1136
+msgid "Input title:"
+msgstr ""
+
+#: ../includes/theme-options.php:1514 ../includes/theme-options.php:1530
+#: ../includes/theme-options.php:1546 ../includes/theme-options.php:1568
+#: ../includes/theme-options.php:1592 ../includes/theme-options.php:1623
+msgid "the input is required?"
+msgstr ""
+
+#: ../includes/theme-options.php:1515
+#: ../plugins/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../includes/theme-options.php:1515
+msgid "Required Email"
+msgstr ""
+
+#: ../includes/theme-options.php:1515
+msgid "Required Phone"
+msgstr ""
+
+#: ../includes/theme-options.php:1515
+msgid "Not required"
+msgstr ""
+
+#: ../includes/theme-options.php:1616
+msgid "Send Emails To:"
+msgstr ""
+
+#: ../includes/theme-options.php:1617
+msgid "Enter the email address that you want to use"
+msgstr ""
+
+#: ../includes/theme-options.php:1641
+msgid "Extras"
+msgstr ""
+
+#: ../includes/theme-options.php:1762
+msgid "Footer Options"
+msgstr ""
+
+#: ../includes/theme-options.php:1769
+msgid "Widgets"
+msgstr ""
+
+#: ../includes/theme-options.php:1773
+msgid "Footer columns"
+msgstr ""
+
+#: ../includes/theme-options.php:1774
+msgid "Select how many columns do you want to display in the footer.."
+msgstr ""
+
+#: ../includes/theme-options.php:1785
+msgid "Display Copyright?"
+msgstr ""
+
+#: ../includes/theme-options.php:1786
+msgid "Shor or hide the copyright."
+msgstr ""
+
+#: ../includes/theme-options.php:1792
+msgid "footer logo"
+msgstr ""
+
+#: ../includes/theme-options.php:1793
+msgid "Upload your footer logo."
+msgstr ""
+
+#: ../includes/theme-options.php:1799
+msgid "Copyright Text"
+msgstr ""
+
+#: ../includes/theme-options.php:1800
+msgid "Copyright of your site, you can add links, to this area."
+msgstr ""
+
+#: ../includes/theme-options.php:1807
+msgid "Display twitter icon?"
+msgstr ""
+
+#: ../includes/theme-options.php:1808 ../includes/theme-options.php:1814
+#: ../includes/theme-options.php:1826 ../includes/theme-options.php:1832
+#: ../includes/theme-options.php:1838
+msgid "Shor or hide the social icon."
+msgstr ""
+
+#: ../includes/theme-options.php:1813
+msgid "Display facebook icon?"
+msgstr ""
+
+#: ../includes/theme-options.php:1819
+msgid "Display rss icon?"
+msgstr ""
+
+#: ../includes/theme-options.php:1820
+msgid "Shor or hide the rss icon."
+msgstr ""
+
+#: ../includes/theme-options.php:1825
+msgid "Display dribble icon?"
+msgstr ""
+
+#: ../includes/theme-options.php:1831
+msgid "Display vimeo icon?"
+msgstr ""
+
+#: ../includes/theme-options.php:1837
+msgid "Display tumblr icon?"
+msgstr ""
+
+#: ../includes/theme-options.php:1847
+msgid "Google Analitycs"
+msgstr ""
+
+#: ../includes/theme-options.php:1850
+msgid "Tracking Code"
+msgstr ""
+
+#: ../includes/theme-options.php:1851
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer of your theme."
+msgstr ""
+
+#: ../includes/theme-options.php:1861
+msgid "Extra Scripts"
+msgstr ""
+
+#: ../includes/theme-options.php:1864
+msgid "Additional Scripts"
+msgstr ""
+
+#: ../includes/theme-options.php:1865
+msgid "Additional jQuery Scripts."
+msgstr ""
+
+#: ../includes/theme-options.php:1889
+msgid "Backup Options"
+msgstr ""
+
+#: ../includes/theme-options.php:1894
+msgid "Demo Content"
+msgstr ""
+
+#: ../includes/theme-options.php:1895
+msgid ""
+"Install the demo content, this will leave your site like the theme preview."
+msgstr ""
+
+#: ../includes/theme-options.php:1903
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../includes/theme-options.php:1907
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: ../includes/theme-options.php:1910
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../includes/theme-options.php:1914
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options"
+msgstr ""
+
+#: ../includes/theme-post-types.php:12 ../includes/theme-post-types.php:13
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/theme-post-types.php:14 ../includes/theme-post-types.php:15
+msgid "Add New Project"
+msgstr ""
+
+#: ../includes/theme-post-types.php:16
+msgid "There are no projects yet"
+msgstr ""
+
+#: ../includes/theme-post-types.php:45 ../includes/theme-post-types.php:46
+msgid "Services"
+msgstr ""
+
+#: ../includes/theme-post-types.php:47
+msgid "Add New Services"
+msgstr ""
+
+#: ../includes/theme-post-types.php:48
+msgid "Add New Service"
+msgstr ""
+
+#: ../includes/theme-post-types.php:49
+msgid "There are no services yet"
+msgstr ""
+
+#: ../includes/theme-post-types.php:79 ../includes/theme-post-types.php:80
+#: ../includes/theme-post-types.php:88 ../includes/theme-post-types.php:89
+msgid "Category"
+msgstr ""
+
+#: ../includes/theme-post-types.php:120 ../includes/theme-post-types.php:181
+#: ../templates/page-header.php:19 ../woocommerce/archive-product.php:84
+#: ../woocommerce/single-product.php:38
+msgid "Author"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:133
+msgid "Please specify media url"
+msgstr ""
+
+#: ../includes/theme-shortcodes.php:590
+msgid "(required)"
+msgstr ""
+
+#: ../includes/theme-widgets.php:75 ../includes/theme-widgets.php:181
+#: ../includes/theme-widgets.php:291 ../includes/theme-widgets.php:476
+#: ../includes/theme-widgets.php:1024 ../includes/theme-widgets.php:1127
+msgid "Widget Title:"
+msgstr ""
+
+#: ../includes/theme-widgets.php:81
+msgid "Flickr id (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: ../includes/theme-widgets.php:87
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../includes/theme-widgets.php:187 ../includes/theme-widgets.php:297
+msgid "Number of posts to display:"
+msgstr ""
+
+#: ../includes/theme-widgets.php:193 ../includes/theme-widgets.php:303
+msgid "Categories ID:"
+msgstr ""
+
+#: ../includes/theme-widgets.php:512
+msgid "Show RSS?: 1 = yes"
+msgstr ""
+
+#: ../includes/theme-widgets.php:568
+msgid "Show # of Tweets"
+msgstr ""
+
+#: ../includes/theme-widgets.php:573
+msgid "Show this linked text for each Tweet"
+msgstr ""
+
+#: ../includes/theme-widgets.php:578
+msgid "Skip tweets containing this text"
+msgstr ""
+
+#: ../includes/theme-widgets.php:583
+msgid "Link above Title with Twitter user"
+msgstr ""
+
+#: ../includes/theme-widgets.php:588
+msgid "Link below tweets with Twitter user"
+msgstr ""
+
+#: ../includes/theme-widgets.php:593
+msgid "Show timestamps"
+msgstr ""
+
+#: ../includes/theme-widgets.php:598
+msgid "Find and show hyperlinks"
+msgstr ""
+
+#: ../includes/theme-widgets.php:603
+msgid "Find Replies in Tweets"
+msgstr ""
+
+#: ../includes/theme-widgets.php:608
+msgid "Create links on new window / tab"
+msgstr ""
+
+#: ../includes/theme-widgets.php:613
+msgid "UTF8 Encode"
+msgstr ""
+
+#: ../includes/theme-widgets.php:650
+msgid "Last Tweets"
+msgstr ""
+
+#: ../includes/theme-widgets.php:684
+msgid "Twitter username not configured"
+msgstr ""
+
+#: ../includes/theme-widgets.php:688
+msgid "Number of tweets not valid"
+msgstr ""
+
+#: ../includes/theme-widgets.php:705
+msgid "Error retrieving tweets"
+msgstr ""
+
+#: ../includes/theme-widgets.php:716
+msgid "No public tweets"
+msgstr ""
+
+#: ../includes/theme-widgets.php:767
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../includes/theme-widgets.php:767
+msgid "Y/m/d"
+msgstr ""
+
+#: ../includes/theme-widgets.php:768
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/theme-widgets.php:768
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: ../includes/theme-widgets.php:815
+msgid "Custom Menu"
+msgstr ""
+
+#: ../includes/theme-widgets.php:929
+msgid "Select Menu:"
+msgstr ""
+
+#: ../includes/theme-widgets.php:1029
+msgid "Address:"
+msgstr ""
+
+#: ../includes/theme-widgets.php:1032
+msgid "Phone:"
+msgstr ""
+
+#: ../includes/theme-widgets.php:1035
+msgid "Email:"
+msgstr ""
+
+#: ../includes/theme-widgets.php:1138
+msgid "Button Text:"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:517
+#: ../plugins/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1956
+#: ../plugins/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1956
+#: ../plugins/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../plugins/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../templates/page-header.php:15 ../woocommerce/archive-product.php:80
+#: ../woocommerce/single-product.php:34
+msgid "Home"
+msgstr ""
+
+#: ../templates/page-header.php:16 ../woocommerce/archive-product.php:81
+#: ../woocommerce/single-product.php:35 ../woocommerce/shop/breadcrumb.php:184
+msgid "Page"
+msgstr ""
+
+#: ../templates/page-header.php:17 ../woocommerce/archive-product.php:82
+#: ../woocommerce/single-product.php:36
+msgid "Tag"
+msgstr ""
+
+#: ../templates/page-header.php:18 ../woocommerce/archive-product.php:83
+#: ../woocommerce/single-product.php:37
+msgid "Search"
+msgstr ""
+
+#: ../templates/page-header.php:20 ../woocommerce/archive-product.php:85
+#: ../woocommerce/single-product.php:39
+msgid "Error 4040, not found"
+msgstr ""
+
+#: ../templates/portfolio-2.php:31 ../templates/portfolio-3.php:31
+#: ../templates/portfolio-4.php:31
+msgid "Filter by:"
+msgstr ""
+
+#: ../templates/portfolio-2.php:32 ../templates/portfolio-3.php:32
+#: ../templates/portfolio-4.php:32
+msgid "All"
+msgstr ""
+
+#: ../templates/post-audio.php:12 ../templates/post-gallery.php:12
+#: ../templates/post-normal.php:21 ../templates/post-quote.php:12
+#: ../templates/post-video.php:12
+msgid "Posted by"
+msgstr ""
+
+#: ../templates/post-audio.php:16 ../templates/post-gallery.php:16
+#: ../templates/post-normal.php:25 ../templates/post-quote.php:16
+#: ../templates/post-video.php:16
+msgid "Posted in "
+msgstr ""
+
+#: ../templates/post-audio.php:39 ../templates/post-gallery.php:43
+#: ../templates/post-normal.php:43 ../templates/post-quote.php:33
+#: ../templates/post-video.php:38
+msgid "Read more"
+msgstr ""
+
+#: ../templates/post-audio.php:48 ../templates/post-gallery.php:52
+#: ../templates/post-normal.php:52 ../templates/post-quote.php:42
+#: ../templates/post-video.php:47
+msgid "Like on Facebook"
+msgstr ""
+
+#: ../templates/post-audio.php:49 ../templates/post-gallery.php:53
+#: ../templates/post-normal.php:53 ../templates/post-quote.php:43
+#: ../templates/post-video.php:48
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../templates/post-audio.php:50 ../templates/post-gallery.php:54
+#: ../templates/post-normal.php:54 ../templates/post-quote.php:44
+#: ../templates/post-video.php:49
+msgid "Share on Google+"
+msgstr ""
+
+#: ../templates/related-projects.php:16
+msgid "Related Works"
+msgstr ""
+
+#: ../woocommerce/archive-product.php:164
+msgid "No products found which match your selection."
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:62
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:85
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:133
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:169
+msgid "Search results"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:173
+msgid "Posts tagged"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:178
+msgid "Author:"
+msgstr ""
